@@ -1,4 +1,4 @@
-```
+```py
 import time
 
 def typing_game():
